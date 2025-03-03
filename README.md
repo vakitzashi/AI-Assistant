@@ -3,8 +3,8 @@
 ## Описание проекта
 Проект направлен на создание интеллектуального ассистента, который будет автоматизировать взаимодействие с клиентами строительной компании. ИИ-ассистент способен осмысленно вести диалог, предоставлять информацию из базы знаний, помогать клиентам в выборе услуг и записывать их на звонок к менеджеру. Это позволит оптимизировать процесс обработки запросов, повысить конверсию и улучшить качество обслуживания.
 
-https://github.com/vakitzashi/AI-Assistant/blob/main/bot1.png?raw=true
-https://github.com/vakitzashi/AI-Assistant/blob/main/bot2.png?raw=true
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/vakitzashi/AI-Assistant/blob/main/bot1.png?raw=true)
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/vakitzashi/AI-Assistant/blob/main/bot2.png?raw=true)raw=t
 ---
 
 ## Функционал
