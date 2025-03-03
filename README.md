@@ -7,7 +7,7 @@
 
 ![Иллюстрация к проекту](https://raw.githubusercontent.com/vakitzashi/AI-Assistant/refs/heads/main/bot1.png)
 ![Иллюстрация к проекту](https://github.com/vakitzashi/AI-Assistant/blob/main/bot2.png?raw=true)
-
+*Скриншоты демонстрируют распознавание различных форм слова, сленга, числительных написанных текстом.
 ---
 
 ## Функционал
